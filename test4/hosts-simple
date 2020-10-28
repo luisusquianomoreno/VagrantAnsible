@@ -1,0 +1,8 @@
+[server]
+192.168.202.201 ansible_user=vagrant
+[client]
+192.168.202.202 ansible_user=vagrant
+[todos:children]
+server
+client
+

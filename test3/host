@@ -1,0 +1,4 @@
+[server]
+192.168.201.201
+#[server:vars]
+#ansible_user=vagrant
